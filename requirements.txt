@@ -1,0 +1,11 @@
+Django==1.4
+wsgiref==0.1.2
+
+# Database
+South==0.7.4
+
+# Server
+gunicorn==0.14.2
+
+# Utilities
+django-extensions==0.8
